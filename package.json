@@ -1,0 +1,14 @@
+{
+  "name": "upload-file-to-gcs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^7.3.0",
+    "csv-parser": "^3.0.0"
+  }
+}
